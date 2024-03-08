@@ -5,7 +5,7 @@ DICOM2raw.ipynb is a Jupyter Notebook that provides a convenient way to convert 
 
 ## Features
 - Process compressed DICOM files
-- Convert DICOM files to raw image data
+- Convert DICOM files to raw image data(24bit RGB)
 - Simple and easy-to-use interface
 
 ## Requirements
